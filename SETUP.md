@@ -17,19 +17,19 @@
 1. Acesse [OpenAI Platform](https://platform.openai.com)
 2. Crie uma conta e adicione créditos ($5 mínimo)
 3. Gere uma API key
-4. Adicione ao `.env`: `OPENAI_API_KEY=sk-...`
+4. Adicione ao `.env`: `...`
 
 #### Anthropic Claude (Alternativa)
 1. Acesse [Anthropic Console](https://console.anthropic.com)
 2. Crie uma conta e adicione créditos
 3. Gere uma API key
-4. Adicione ao `.env`: `ANTHROPIC_API_KEY=sk-ant-...`
+4. Adicione ao `.env`: `...`
 
 #### Google Gemini (Gratuito)
 1. Acesse [Google AI Studio](https://aistudio.google.com)
 2. Crie uma conta Google
 3. Gere uma API key gratuita
-4. Adicione ao `.env`: `GOOGLE_GENERATIVE_AI_API_KEY=...`
+4. Adicione ao `.env`: `...`
 
 ### 3. Configuração do Projeto
 
